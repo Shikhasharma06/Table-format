@@ -16,3 +16,4 @@ img for adding image.
 height and width for image height and width.
 a(anchor tag )is a href used for adding link
 ![Screenshot_4](https://github.com/Shikhasharma06/Table-format/assets/135316685/3af00b12-2e62-44c4-b6c6-ade30878345d)
+https://shikhasharma06.github.io/Table-format/Table.html
